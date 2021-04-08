@@ -15,5 +15,7 @@ int main()
     int num=10;
     if(num==10)
     printf("The number added is correct\n");
+    else
+        printf("The number is wrong");
         return 0;
 }
