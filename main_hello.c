@@ -12,5 +12,8 @@
 int main()
 {
     printf("Welcome to Github");
-    return 0;
+    int num=10;
+    if(num==10)
+    printf("The number added is correct\n");
+        return 0;
 }
